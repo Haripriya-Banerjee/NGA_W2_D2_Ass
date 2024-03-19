@@ -1,0 +1,29 @@
+.head{
+  background-color: greenyellow;
+  /* margin-left: 350px; */
+  text-align: center;
+}
+.para{
+  background-color: rgb(255, 217, 0);
+  font-size: medium;
+  /* margin-left: left; */
+  text-align: center;
+}
+.edu{
+  background-color: rgb(176, 136, 212);
+  /* text-align:inherit; */
+}
+.conct{
+  background-color:rgb(176, 136, 212) ;
+}
+.proj{
+  background-color: rgb(176, 136, 212);
+}
+
+.img_p{
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  margin-left: 480px;
+  /* margin-right: 350px; */
+}
